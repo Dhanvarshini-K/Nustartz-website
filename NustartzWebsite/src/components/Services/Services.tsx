@@ -1,5 +1,5 @@
 import { ArrowRight, Package2Icon } from "lucide-react";
-import React, { JSX } from "react";
+import { JSX } from "react";
 import {
   Accordion,
   AccordionContent,

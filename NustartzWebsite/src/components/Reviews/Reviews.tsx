@@ -1,4 +1,4 @@
-import React, { JSX } from "react";
+import { JSX } from "react";
 import { ArrowRightCircleIcon, ArrowUpRightFromCircleIcon } from "lucide-react";
 import { Button } from "../../common/ui/button";
 import { Card, CardContent } from "../../common/ui/card";

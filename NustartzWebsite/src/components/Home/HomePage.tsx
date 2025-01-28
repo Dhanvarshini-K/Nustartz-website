@@ -1,4 +1,4 @@
-import React, { JSX } from "react";
+import { JSX } from "react";
 import { ArrowRight, DollarSignIcon, LeafIcon, RocketIcon } from "lucide-react";
 
 import { Button } from "../../common/ui/button";

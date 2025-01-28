@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+@theme {
+  --brand-purple: #6243E1;
+  --gray: #636A6E;
+  --para-grey: #4D4255;
+  --dark-grey: #322D35;
+  --brand-blue-heavy: #283772;
+  --grey: #6b6b6b;
+  --ghost-white: #F5F9FF;
+  --lavender: #d2ccff;
+  --light-lavender: #ECEBF4;
+  --light-purple: #8A6EFF;
+  --nickel-grey: #727272;
+}
